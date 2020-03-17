@@ -12,14 +12,14 @@
 
 [8F. Лабиринт](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/8F.cpp)
 # lab09
-[9A. Топологическая сортировка](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9A.cpp)
+[9A. Топологическая сортировка](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9A.cpp)
 
-[9B. Поиск цикла](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9B.cpp)
+[9B. Поиск цикла](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9B.cpp)
 
-[9C. Двудольный граф](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9C.cpp)
+[9C. Двудольный граф](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9C.cpp)
 
-[9D. Конденсация графа](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9D.cpp)
+[9D. Конденсация графа](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9D.cpp)
 
-[9E. Гамильтонов путь](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9E.cpp)
+[9E. Гамильтонов путь](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9E.cpp)
 
-[9F. Игра](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/9F.cpp)
+[9F. Игра](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab09/9F.cpp)
