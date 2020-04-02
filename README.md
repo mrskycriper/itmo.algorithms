@@ -1,4 +1,4 @@
-# itmo.algorithms.sem02
+# itmo.algorithms
 # lab08 [Tasks text](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/problems8.pdf)
 [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/mrskycriper/itmo.algorithms.sem02/blob/master/lab08/8A.cpp)
 
