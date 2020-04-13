@@ -1,5 +1,5 @@
 # itmo.algorithms
-# lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)
+## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)
 [1A. a + b](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1A.cpp)
 
 [1B. a + b^2](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1B.cpp)
@@ -9,7 +9,7 @@
 [1D. Простая сортировка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1D.cpp)
 
 [1E. Знакомство с жителями Сортленда](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1E.cpp)
-# lab08 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/problems8.pdf)
+## lab08 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/problems8.pdf)
 [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/8A.cpp)
 
 [8B. Проверка на неориентированность](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/8B.cpp)
@@ -21,7 +21,7 @@
 [8E. Кратчайший путь в невзвешенном графе](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/8E.cpp)
 
 [8F. Лабиринт](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/8F.cpp)
-# lab09 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/problems9.pdf)
+## lab09 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/problems9.pdf)
 [9A. Топологическая сортировка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9A.cpp)
 
 [9B. Поиск цикла](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9B.cpp)
