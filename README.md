@@ -33,3 +33,12 @@
 [9E. Гамильтонов путь](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9E.cpp)
 
 [9F. Игра](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9F.cpp)
+
+## lab10 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10/problems10.pdf)
+[10A. Степени вершин](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10/10A.cpp)
+
+[10B. Остовное дерево](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10/10B.cpp)
+
+[10C. Остовное дерево 3](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10/10C.cpp)
+
+[10D. Алгоритм двух китайцев](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10) //Бонусная лаба, лень делать
