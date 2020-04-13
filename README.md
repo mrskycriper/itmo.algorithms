@@ -44,12 +44,12 @@
 10D. Алгоритм двух китайцев
 
 ## lab11 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/problems11.pdf)
-1. [11A. Кратчайший путь](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11A.cpp)
+[11A. Кратчайший путь](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11A.cpp)
 
-2. [11B. Кратчайший путь от каждой вершины до каждой](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11B.cpp)
+[11B. Кратчайший путь от каждой вершины до каждой](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11B.cpp)
 
-3. [11C. Кратчайший путь (2)](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11C.cpp)
+[11C. Кратчайший путь (2)](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11C.cpp)
 
-4. 11D. Кратчайшие пути и прочее
+11D. Кратчайшие пути и прочее
 
-5. [11E. Цикл отрицательного веса](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11E.cpp)
+[11E. Цикл отрицательного веса](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11E.cpp)
