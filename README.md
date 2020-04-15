@@ -1,5 +1,12 @@
 # itmo.algorithms
-Learning basic algorithms and data structures
+*Learning basic algorithms and data structures*
+
+[lab01](#lab01)
+[lab08](#lab08)
+[lab09](#lab09)
+[lab10](#lab10)
+[lab11](#lab11)
+
 ## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)
 [1A. a + b](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1A.cpp)
 
