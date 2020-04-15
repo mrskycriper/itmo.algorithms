@@ -7,7 +7,7 @@
 [lab10](#lab10)
 [lab11](#lab11)
 
-## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)
+<a name="lab01">## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)</a>
 [1A. a + b](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1A.cpp)
 
 [1B. a + b^2](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1B.cpp)
