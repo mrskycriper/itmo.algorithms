@@ -7,15 +7,11 @@
 [lab10](#lab10)
 [lab11](#lab11)
 
-<a name="lab01">## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)</a>
-[1A. a + b](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1A.cpp)
-
-[1B. a + b^2](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1B.cpp)
-
-[1C. Черепашка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1C.cpp)
-
-[1D. Простая сортировка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1D.cpp)
-
+## lab01 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/problems1.pdf)
+[1A. a + b](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1A.cpp)  
+[1B. a + b^2](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1B.cpp)  
+[1C. Черепашка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1C.cpp)  
+[1D. Простая сортировка](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1D.cpp)  
 [1E. Знакомство с жителями Сортленда](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab01/1E.cpp)
 ## lab08 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/problems8.pdf)
 [8A. От списка ребер к матрице смежности, ориентированный граф](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab08/8A.cpp)
