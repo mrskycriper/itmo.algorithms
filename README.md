@@ -22,7 +22,7 @@
 [9B. Поиск цикла](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9B.cpp)  
 [9C. Двудольный граф](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9C.cpp)  
 [9D. Конденсация графа](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9D.cpp)  
-[9E. Гамильтонов путь](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9E.cpp)
+[9E. Гамильтонов путь](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9E.cpp)  
 [9F. Игра](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab09/9F.cpp)  
 ***
 ### lab10 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab10/problems10.pdf)
