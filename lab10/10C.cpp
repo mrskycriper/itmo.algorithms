@@ -5,10 +5,6 @@
 
 using namespace std;
 
-using namespace std;
-
-//const double Inf = 100000000.0;
-
 long long Prim(vector <bool>& visited, vector <vector <pair <long long, long long>>>& graph,
 			   priority_queue <pair <long long, long long>, vector <pair <long long, long long>>, greater <>>& priorityQueue)
 {
