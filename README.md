@@ -1,4 +1,4 @@
-# itmo.algorithms
+# itmo.algorithms / C++
 *Learning basic algorithms and data structures*
 
 ***
