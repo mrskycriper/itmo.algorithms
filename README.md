@@ -44,7 +44,6 @@
 [11E. Цикл отрицательного веса](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab11/11E.cpp)
 ***
 ### lab12
-## Лаба 12
 [Tasks text](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab12/problems12.pdf)   
 [12A. Максимальный поток](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab12/12A.cpp)    
 [12B. Паросочетание](https://github.com/mrskycriper/itmo.algorithms/blob/master/lab12/12B.cpp)  
